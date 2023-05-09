@@ -1,0 +1,9 @@
+.header-bottom-wrapper nav ul li {
+    /*float: left;*/
+    padding: 5px;
+}
+
+#cssmenu > ul > li {
+    /*float: left;*/
+    display: inline-block
+}
